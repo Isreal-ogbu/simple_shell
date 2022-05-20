@@ -85,4 +85,5 @@ USER=juan
 .B Prints all the environment variables of the system. 
 .SH AUTHORS
 
-.B Written by Isreal ogbu and olarenwaju qudus
+.B Written by Qudus Olanrewaju and Isreal ogbu
+.B Holberton School - Cohort 22.s
